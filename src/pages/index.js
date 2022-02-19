@@ -1,0 +1,8 @@
+export { default as CreateProduct } from './CreateProduct'
+export { default as CreateUser } from './CreateUser'
+export { default as Home } from './Home'
+export { default as Product } from './Product'
+export { default as ProductList } from './ProductList'
+export { default as User } from './User'
+export { default as UserList } from './UserList'
+export { default as Login } from './Login'
